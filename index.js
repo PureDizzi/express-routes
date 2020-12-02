@@ -18,7 +18,7 @@ function generateRoutes(stack, basePath, paths = []) {
 }
 
 function expressRoutes(app, basePath = '') {
-    if (!app || app.name === 'app' || !app._router) {
+    if (!app || !app.name === 'app' || !app._router) {
         console.error('Express Routes: No express app detected')
         return false
     }

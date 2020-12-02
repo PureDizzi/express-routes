@@ -1,0 +1,17 @@
+{
+  "name": "@puredizzi/express-routes",
+  "version": "1.0.0",
+  "description": "Returns all routes in your express app.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/PureDizzi/express-routes.git"
+  },
+  "author": "PureDizzi <puredizzi@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/PureDizzi/express-routes",
+  "bugs": {
+      "url" : "https://github.com/PureDizzi/express-routes/issues"
+  }
+}

@@ -25,3 +25,5 @@ function expressRoutes(app, basePath = '') {
 
     console.table(generateRoutes(app._router.stack, basePath))
 }
+
+module.exports = expressRoutes

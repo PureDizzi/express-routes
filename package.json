@@ -1,6 +1,6 @@
 {
   "name": "@puredizzi/express-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns all routes in your express app.",
   "main": "index.js",
   "scripts": {},

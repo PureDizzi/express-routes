@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "nodenext",
+        "target": "ESNext",
+        "sourceMap": true,
+        "rootDir":  ".",
+        "strict": true,
+        "outDir": "../dist/",
+        "composite": true,
+    }
+}

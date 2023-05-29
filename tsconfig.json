@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "nodenext",
+        "target": "ESNext",
+        "sourceMap": true,
+        "rootDir": ".",
+        "outDir": "lib/",
+        "strict": true,
+        "declaration": true,
+        "composite": true,
+    },
+    "references": [
+        {
+            "path": "example/tsconfig.json"
+        },
+    ],
+    "files": [
+        "index.ts"
+    ],
+}
